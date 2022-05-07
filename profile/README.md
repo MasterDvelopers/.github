@@ -8,7 +8,7 @@
 
 - 👯 We are looking to collaborate on **CLOUD AND AI/ML projects**
 
-- 🤝 We'r looking for help with **GCLOUD and PY**
+- 🤝 Join this community **JOIN HERE**  click <a href="https://github.com/MasterDvelopers/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Master+Devlopers+GitHub+Community+Organization"> here </a>
 
 - 📫 How to reach me (owner) **raneharish11@gmail.com**
 
