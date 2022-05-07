@@ -43,7 +43,7 @@
  
  <h2>📌 <ins>How do I join and become a part of <a href="">Master Devlopers Community</a>?</ins></h2>
 <p>
-    ⭐ Join us on <b><a href="https://discord.gg/">Discord</a></b> to interact with 5k+ Developers onboard! <br>
+    ⭐ Join us on <b><a href="https://discord.gg/">Discord(not updated)</a></b> to interact with  Developers onboard! <br>
     ⭐ Join our <b><a href="https://github.com/MasterDvelopers/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Master+Devlopers+GitHub+Community+Organization">GitHub Organization</a></b> to collaborate and contribute towards our Community projects! <br>
 </p>
 
