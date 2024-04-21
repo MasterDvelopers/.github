@@ -14,14 +14,14 @@
      </ul>
     ⭐ Domains of Interest:
     <ul>        
-        &nbsp;📱 &nbsp;App Development <br> 
-        🖥️ Web Development <br> 
-        🎨 UI/UX Development <br> 
-        🎮 Game Development <br> 
-        ☁  Cloud Development <br> 
-        🧠 Machine Learning and AI <br> 
-        🔗 Blockchain/Crypto <br> 
-        🤖 IoT/Embedded <br> 
+        &nbsp;📱 &nbsp;App Development (Currently not accepting new projects)<br> 
+        🖥️ Web Development (Hyper Active)<br> 
+        🎨 UI/UX Development (Hyper Active)<br> 
+        🎮 Game Development (Active)<br> 
+        ☁  Cloud Development (Need Devs for maintainance)<br> 
+        🧠 Machine Learning and AI (Currently on pause)<br> 
+        🔗 Blockchain (Currently not accepting new projects) <br> 
+        🤖 IoT/Embedded (Currently on pause)<br> 
     </ul>
 </p>
     
